@@ -106,24 +106,24 @@ Open the documentation folder and follow each guide step by step.
 
 ---
 
-# 📘 Documentation
+## 📘 Documentation
 
 | Guide | Open |
 |-------|------|
-| 📖 Introduction | docs/01-introduction.md |
-| ⚙ Prerequisites | docs/02-prerequisites.md |
-| 📦 Install Unity IAP | docs/03-install-unity-iap.md |
-| ☁ Unity Gaming Services | docs/04-unity-gaming-services.md |
-| 🛒 Create Products | docs/05-create-products.md |
-| 💰 Consumable Purchases | docs/06-consumables.md |
-| 💎 Non-Consumables | docs/07-non-consumables.md |
-| ⭐ Subscriptions | docs/08-subscriptions.md |
-| 🔄 Restore Purchases | docs/09-restore-purchases.md |
-| 🔒 Receipt Validation | docs/10-receipt-validation.md |
-| 🧪 Testing | docs/11-testing.md |
-| ⭐ Best Practices | docs/12-best-practices.md |
-| 🛠 Common Errors | docs/13-common-errors.md |
-| ❓ FAQ | docs/14-faq.md |
+| 📖 Introduction | [Introduction](docs/introduction.md) |
+| ⚙️ Prerequisites | [Prerequisites](docs/prerequisites.md) |
+| 📦 Install Unity IAP | [Install Unity IAP](docs/install-unity-iap.md) |
+| ☁️ Unity Gaming Services | [Unity Gaming Services](docs/unity-gaming-services.md) |
+| 🛒 Create Products | [Create Products](docs/create-products.md) |
+| 💰 Consumable Purchases | [Consumable Purchases](docs/consumables.md) |
+| 💎 Non-Consumables | [Non-Consumables](docs/non-consumables.md) |
+| ⭐ Subscriptions | [Subscriptions](docs/subscriptions.md) |
+| 🔄 Restore Purchases | [Restore Purchases](docs/restore-purchases.md) |
+| 🔒 Receipt Validation | [Receipt Validation](docs/receipt-validation.md) |
+| 🧪 Testing | [Testing](docs/testing.md) |
+| ⭐ Best Practices | [Best Practices](docs/best-practices.md) |
+| 🛠️ Common Errors | [Common Errors](docs/common-errors.md) |
+| ❓ FAQ | [FAQ](docs/faq.md) |
 
 ---
 
