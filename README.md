@@ -216,10 +216,4 @@ This project is licensed under the MIT License.
 
 ---
 
-<p align="center">
 
-Made with ❤️ by <b>Unity Source Code</b>
-
-🌍 https://unitysourcecode.net
-
-</p>
