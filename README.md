@@ -164,21 +164,13 @@ Open the documentation folder and follow each guide step by step.
 - Unity Gaming Services
 - Unity IAP Documentation
 
-## Unity Source Code
+## Helpful Tutorials
 
-Professional Unity game templates and practical monetization tutorials.
+- 💳 Unity IAP Setup in a Ready-Made Game Template  
+  https://unitysourcecode.net/blog/set-up-unity-iap-in-a-ready-made-game-template
 
-🌍 Website
-
-https://unitysourcecode.net
-
-🎮 Unity Game Templates
-
-https://unitysourcecode.net/category/games
-
-💳 Unity IAP Tutorial
-
-https://unitysourcecode.net/blog/set-up-unity-iap-in-a-ready-made-game-template
+- 🎮 Browse Unity Game Templates  
+  https://unitysourcecode.net/category/games
 
 ---
 
@@ -196,19 +188,9 @@ https://github.com/unitysourcecode2026/unity-admob-integration-guide
 
 Unity Source Code publishes practical Unity development resources including game templates, source code projects, monetization guides, technical documentation, and tutorials to help developers build successful mobile games.
 
-Explore more:
-
 🌍 Website
 
 https://unitysourcecode.net
-
-🎮 Browse Unity Game Templates
-
-https://unitysourcecode.net/category/games
-
-📰 Unity IAP Tutorial
-
-https://unitysourcecode.net/blog/set-up-unity-iap-in-a-ready-made-game-template
 
 If this repository helped you:
 
